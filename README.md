@@ -41,9 +41,8 @@ There will several html pages to this site. A Home page, Mens, Womens, Kids, and
 Clicked Shoes:
 side bar of different angles of shoe then larger picture next to it that you can enlarge
     a section where you select a buttons of your shoe size
-    add to cart button
     add to bag button
 
-Add to bag Button
+Add to bag page
     -seperate html file
     edit and remove selections and check out

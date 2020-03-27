@@ -1,0 +1,7 @@
+#main {
+    align-content: center;
+    margin-left: 78%;
+}
+#main:hover {
+    opacity: 0.5;
+}
