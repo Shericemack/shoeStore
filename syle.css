@@ -1,7 +1,33 @@
 #main {
     align-content: center;
-    margin-left: 78%;
+    margin-left: 30%;
+    margin-top: 4%;
 }
 #main:hover {
     opacity: 0.5;
+}
+
+.w3-container{
+    margin-left: 0 !important;
+}
+.container{
+    margin-top: 45%;
+    margin-left: 7%;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid rgb(68, 6, 6);
+    margin: 1em 0;
+    padding: 0;
+}
+
+
+img {
+margin: auto;
+}
+
+img:hover {
+opacity: 0.5;
 }
