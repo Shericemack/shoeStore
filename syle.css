@@ -1,6 +1,8 @@
 #main {
     align-content: center;
-    margin-left: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 4%;
 }
 #main:hover {
@@ -11,7 +13,7 @@
     margin-left: 0 !important;
 }
 .container{
-    margin-top: 45%;
+    margin-top: 30%;
     margin-left: 7%;
 }
 hr {
@@ -23,6 +25,18 @@ hr {
     padding: 0;
 }
 
+#womens {
+    width: 250px;
+    height: 150px;
+    /* margin: 10px; */
+    border: 1px solid #ccc;
+    float: left;
+    align-content: center;
+    align-content: center;
+    display: block;
+    margin-left: auto !important ;
+    margin-right: auto !important ;
+}
 
 img {
 margin: auto;
@@ -30,4 +44,37 @@ margin: auto;
 
 img:hover {
 opacity: 0.5;
+}
+.footer {
+    /* width: 100%; */
+    background-color: black;
+    color: white;
+    /* position: fixed;
+    left: 0;
+    bottom: 0; */
+        text-align: center;
+        padding: 10px;
+
+}
+
+#move {
+    text-align: center;
+    align-content: center;
+}
+li {
+    list-style: none;
+    display: inline;
+    padding: 20px;
+}
+li:hover {
+    color: grey;
+}
+
+.w3-display-middle {
+    position: relative;
+}
+button {
+    position: absolute;
+    top: 80px;
+    right: 110px;
 }
